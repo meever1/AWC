@@ -101,7 +101,7 @@ footer span{
 
 .missionImg{
    width:100%;
-   height: 120px;
+   min-height: 150px;
    background:#f2f2f2;
 }
 
